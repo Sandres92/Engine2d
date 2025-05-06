@@ -52,3 +52,6 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+Engine2d/build/Desktop_Qt_5_15_2_MinGW_64_bit-Debug/.qmake.stash
+Engine2d/build/
+build/
